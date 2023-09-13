@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(40, 38, 38);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    color: #fff;
+}
+
+.chocolate-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.chocolate {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #fff;
+    height: 200px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+  
+}
+
+.chocolate img {
+    max-width: 100px;
+    height: 100px;
+    
+}
+
+.add-button {
+    background-color: rgb(63, 237, 63);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.select{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.selected-chocolates {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+#selected-list {
+    list-style-type: none;
+    padding: 0;
+}

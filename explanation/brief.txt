@@ -1,0 +1,26 @@
+I have created this using HTML,CSS and Javacript.
+so I follow some step to complete this task so step as below :
+
+step 1: 
+    basic template of html after that in body tag i used heading tag 
+    so that heading should to use which is " Your Custom Chocolate Pack".
+
+step 2 :
+    I created Chocolate-list class so that all Chocolates are mention in Chocolate-list class.
+    after that created Chocolate class and mention images , paragraph and one add button.
+    so user can see all Chocolate img , Chocolate name and add button.
+step 3:
+    user click on add button so Chocolate price should add automatically.
+step 4:
+    use css on Chocolate list 
+step 5:
+    using Javacript Chocolate price should add automatically when use click on add button.
+    I have created one array so that all Chocolate data add their.so I have add my logic 
+    when user click on Chocolate their price and name should display in bottom.
+
+
+tool : VS code 
+
+    so this are the explanation of my project.
+    
+
